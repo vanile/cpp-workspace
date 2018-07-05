@@ -1,0 +1,2 @@
+﻿Test.obj : error LNK2019: unresolved external symbol "public: __thiscall Node::Node(void)" (??0Node@@QAE@XZ) referenced in function "public: void __thiscall LinkedList::add(int)" (?add@LinkedList@@QAEXH@Z)
+G:\Visual Studio Workspace\Projects\LinkedList\Debug\LinkedList.exe : fatal error LNK1120: 1 unresolved externals

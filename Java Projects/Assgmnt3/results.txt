@@ -1,0 +1,12 @@
+Number	Occurrences	Prime
+1	1		yes
+4	1		no
+5	2		yes
+2	1		no
+3	1		yes
+32	4		no
+32	4		no
+32	4		no
+5	2		yes
+6	1		no
+32	4		no

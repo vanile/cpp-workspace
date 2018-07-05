@@ -1,0 +1,15 @@
+﻿  CS 256 Assignment2.cpp
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(34): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(54): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(60): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(70): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(75): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(102): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(123): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(136): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(157): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(260): warning C4018: '<' : signed/unsigned mismatch
+g:\visual studio workspace\projects\cs 256 assignment2\cs 256 assignment2\cs 256 assignment2.cpp(329): warning C4018: '<' : signed/unsigned mismatch
+  CS 256 Assignment2.vcxproj -> G:\Visual Studio Workspace\Projects\CS 256 Assignment2\Debug\CS 256 Assignment2.exe
